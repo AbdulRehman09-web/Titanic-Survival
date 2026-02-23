@@ -91,8 +91,8 @@ The **Random Forest** and **ANN** models achieved the highest accuracy (82.7%).
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/titanic-survival-prediction.git
-cd titanic-survival-prediction
+git clone https://github.com/yourusername/Titanic-Survival.git
+cd Titanic-Survival
 ````
 
 2. Create a virtual environment and activate it:
